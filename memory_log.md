@@ -1,19 +1,19 @@
 # Blockchain Market Research Memory Log
 
-_Agent-maintained. Cumulative. Last updated: 2026-03-25_
+_Agent-maintained. Cumulative. Last updated: 2026-03-26_
 
 ---
 
-## RANKED SECTORS — Most Promising for Startup/Product Building (as of 2026-03-25)
+## RANKED SECTORS — Most Promising for Startup/Product Building (as of 2026-03-26)
 
-| Rank | Sector | Score Signal | Why Now |
-|------|--------|-------------|---------|
-| 1 | **Stablecoin Payments Infrastructure** | ⬆⬆⬆ Very High | GENIUS Act passed, $312B market cap, PayPal in 70 countries, Mastercard/SoFi settlement live |
-| 2 | **RWA Tokenization Middleware** | ⬆⬆⬆ Very High | Market 4x'd to $26.4B, congressional hearing happening NOW, institutional demand surging |
-| 3 | **DeFi Automation / Intent-Based Execution** | ⬆⬆ High | AI-agent native DeFi ($2B+ TVL redeployed by agents), Orbs Agentic launched, Uniswap open-sourced agent skills |
-| 4 | **ZK Compliance / Privacy-Preserving KYC** | ⬆⬆ High | Institutions need privacy + compliance simultaneously; zk-KYC is the solution; tightening global AML/MiCA |
-| 5 | **Cross-Chain Routing / Interoperability** | ⬆ Medium-High | 40–60 chain support becoming table stakes; Chainlink CCIP gaining enterprise traction; still fragmented |
-| 6 | **Enterprise Blockchain Tooling** | ⬆ Medium | $14.8B raised in 2025 (127% YoY), M&A rising, enterprises buying not building |
+| Rank | Sector | Signal Strength | Why Now |
+|------|--------|----------------|---------|
+| 1 | **Stablecoin Payments Infrastructure** | ⬆⬆⬆ Very High | GENIUS Act passed, $312B market cap, PayPal 70 countries, Stripe default B2B, Visa/MC USDC settlement, KAST $80M raised |
+| 2 | **RWA Tokenization Middleware** | ⬆⬆⬆ Very High | Market 4x'd to $26.4B, landmark congressional hearing Mar 25, CLARITY Act, BlackRock/JPM fully committed |
+| 3 | **ZK Compliance / Privacy-Preserving KYC** | ⬆⬆ High | ZK-KYC productized (Polygon ID, zkPass), ZKsync Prividium + Deloitte, GENIUS BSA mandates drive demand |
+| 4 | **DeFi Automation / Intent-Based Execution (DeFAI)** | ⬆⬆ High | Orbs Agentic launched, Uniswap open-sourced agent skills, $2B+ TVL redeployed by agents, Circle grants funding AI agents |
+| 5 | **Cross-Chain Routing / Interoperability** | ⬆ Medium-High | ERC-7683 intents standard emerging, chain abstraction as UX end-state, MiCA compliance deadline July 2026 |
+| 6 | **Enterprise Blockchain Infra (L3s)** | ⬆ Medium | $14.8B raised in 2025, JPMorgan Kinexys/HSBC Orion/BlackRock BUIDL in production, L3s solve enterprise TPS |
 
 ---
 
@@ -34,9 +34,7 @@ _Agent-maintained. Cumulative. Last updated: 2026-03-25_
 - Regulatory clarity (GENIUS Act) unlocks a flood of institutional implementations.
 
 **Sector:** Stablecoin payments, B2B settlement, cross-border remittance, payroll
-
 **Who buys/uses:** Banks, fintechs, enterprises doing cross-border payments, payroll platforms, card networks
-
 **Startup attractiveness:** INCREASES sharply. API-layer plays on top of stablecoin rails (compliance, FX, treasury management) have immediate revenue potential.
 
 ---
@@ -58,9 +56,7 @@ _Agent-maintained. Cumulative. Last updated: 2026-03-25_
 - McKinsey projects $2T by 2030. BIS projects 10% of global GDP tokenized by 2034.
 
 **Sector:** Capital markets, private credit, real estate, treasury management, trade finance
-
 **Who buys/uses:** Asset managers, banks, institutional investors, fund administrators
-
 **Startup attractiveness:** INCREASES. Middleware (compliance rails, KYC/AML hooks, secondary market liquidity tooling, custody connectors) has massive whitespace now that primary issuance infrastructure is maturing.
 
 ---
@@ -79,9 +75,7 @@ _Agent-maintained. Cumulative. Last updated: 2026-03-25_
 - DeFi is automating itself. Users increasingly delegate execution to AI agents. This creates demand for secure agent execution infrastructure, solver networks, and intent-routing layers.
 
 **Sector:** DeFi, yield optimization, portfolio automation, UX abstraction
-
 **Who buys/uses:** Retail DeFi users, protocols, DAOs, treasury managers
-
 **Startup attractiveness:** INCREASES. Execution infrastructure, agent-wallet security, and solver marketplaces are early but high-conviction bets. Risk: fragmentation across intent standards.
 
 ---
@@ -100,9 +94,7 @@ _Agent-maintained. Cumulative. Last updated: 2026-03-25_
 - MiCA and GENIUS Act both tighten compliance requirements. Institutions need privacy + auditability simultaneously. ZK is the only technical solution. Growing regulatory pressure = growing demand for ZK compliance tools.
 
 **Sector:** Compliance, identity, privacy, scaling
-
 **Who buys/uses:** Banks, DeFi protocols, regulated crypto businesses, governments
-
 **Startup attractiveness:** INCREASES. zk-KYC, zk-compliance middleware, and prover marketplaces are high-moat plays. Technical barrier is a feature for founders with ZK expertise.
 
 ---
@@ -120,9 +112,7 @@ _Agent-maintained. Cumulative. Last updated: 2026-03-25_
 - Bridges are necessary but dangerous infrastructure. The gap between protocol maturity and security remains wide. Regulatory compliance layer is now required in EU.
 
 **Sector:** Interoperability, liquidity routing, cross-border settlement
-
 **Who buys/uses:** DeFi protocols, exchanges, institutional traders, enterprises
-
 **Startup attractiveness:** MODERATE. Core bridge protocols are commoditizing. Opportunity lies in security tooling on top of bridges, compliance wrappers, and intent-routing that abstracts bridge selection.
 
 ---
@@ -141,17 +131,72 @@ _Agent-maintained. Cumulative. Last updated: 2026-03-25_
 - Capital is flowing back in at scale. Regulatory clarity is reducing legal risk. Enterprises are integrating rather than experimenting. This is infrastructure-buying season.
 
 **Sector:** Broad blockchain
-
 **Who buys/uses:** VCs, enterprises, corporates doing M&A
-
 **Startup attractiveness:** INCREASES across infrastructure sectors. High-quality technical teams with real customers are acquisition targets.
+
+---
+
+## RUN: 2026-03-26
+
+### NEW SIGNALS (incremental vs. 2026-03-25)
+
+#### Stablecoins & Payments — Additional Data Points
+- Stripe confirmed stablecoin as **default B2B payment option** (not just supported — default).
+- KAST raised **$80M Series A** (stablecoin payments platform, LatAm/MENA/North America).
+- ARQ (rebranded DolarApp, Mexico) raised **$70M** for stablecoin remittances.
+- Daily stablecoin volume: **~$30B/day**. Transfer cost: **under $0.01 vs. $25–50 for wire**.
+- Stablecoin payroll: Deel + MoonPay Iron officially rolling out UK/EU March 2026.
+- 7 major economies now have full stablecoin regulatory frameworks in place simultaneously.
+
+**Startup attractiveness update:** B2B cross-border payment rails + emerging market payroll infrastructure are now the clearest revenue-generating white spaces. Not "will this work" — "who builds the compliance + distribution wrapper fastest."
+
+---
+
+#### RWA — Additional Data Points
+- ZK-based identity + compliance now being integrated into RWA tokenization platforms (convergence with sector 3).
+- Ethereum holds 60%+ of all tokenized RWA value; Arbitrum and Base used for cheaper settlement.
+- McKinsey projects $2T by 2030; some models suggest **$400B+ by end of 2026** if institutional momentum holds.
+
+---
+
+#### ZK / Compliance — New Developments
+- ZKsync **Prividium** co-published with **Deloitte**; central bank participation confirmed.
+- **Deutsche Bank + Privado ID** proof-of-concept: ZK credential identity verification live.
+- **Google** open-sourced ZK proof libraries (post-Sparkasse collaboration).
+- **BlockSec report** (March 2026): DeFi protocols adopting modular contract designs with real-time compliance hooks — can reject flagged wallets at transaction level.
+- ZK proof cost: **~$0.001/tx**; finality: **<1 second** — deployment-ready for institutional use.
+- **7 blockchain security incidents** (Feb 23–Mar 1, 2026): $13M lost to oracle and cryptographic verification bugs.
+
+**Startup attractiveness update:** ZK-KYC tooling + modular compliance hook infrastructure = high-moat, regulatory-pull opportunity. Security incident frequency reinforces demand for ZK verification layers.
+
+---
+
+#### Cross-Chain — New Developments
+- **ERC-7683** (Across + Uniswap intents standard) gaining adoption across EVM chains — first credible standardization attempt.
+- **Chain abstraction** moving from concept to product category: users shouldn't need to know which chain they're on.
+- Solana bridge inbound: **$10.1B** (114% YoY growth).
+- MiCA bridge licensing: **July 2026 deadline** — EU operators must be fully authorized. Compliance gap is opening.
+
+**Startup attractiveness update:** Core bridges commoditizing; opportunity now in (1) compliance middleware for MiCA compliance, (2) intent-routing aggregation, (3) chain-abstraction orchestration layer.
+
+---
+
+#### Developer Activity & Funding — New Signals
+- ~**66,000 total active blockchain developers** (Chainspect); Solana +78% YoY builder growth.
+- Blockchain seed: **$1.3B across 680+ deals** in 2025; avg seed = $1.9M.
+- **Circle 2026 Developer Grants Cohort 1**: focused on AI-powered financial agents, autonomous commerce, cross-border payments. 8 of 19 selected startups are Africa-founded.
+- **AI + blockchain** is now the #1 seed investment thesis: decentralized AI training, verifiable AI outputs, autonomous financial agents.
+- **Taiko**: $25M grant program across DeFi, AI, RWA, SocialFi, Gaming.
+- Enterprise blockchain market: $9.6B (2023) → **$287.8B by 2032** (47.5% CAGR).
+- L3s now viable for enterprise: **100–1,000 TPS at <$0.10/tx** — performance problem largely solved.
 
 ---
 
 ## KEY THEMES TO WATCH
 
 1. **CLARITY Act Senate timeline** — May deadline pressure; outcome shapes token classification for years.
-2. **Stablecoin bank issuance wave** — GENIUS Act compliance = new bank-issued stablecoins incoming.
-3. **Agent-wallet security standards** — No standard yet for how AI agents securely hold/use keys.
-4. **RWA secondary market liquidity** — Primary issuance is solved; secondary trading is the next gap.
+2. **Stablecoin bank issuance wave** — GENIUS Act compliance = new bank-issued stablecoins incoming (SoFiUSD is the template).
+3. **Agent-wallet security standards** — No standard yet for how AI agents securely hold/use keys. First mover wins.
+4. **RWA secondary market liquidity** — Primary issuance is solved; secondary trading infrastructure is the next gap.
 5. **zk-KYC adoption curve** — First mover to get institutional traction will own the compliance layer.
+6. **MiCA bridge licensing deadline (July 2026)** — Forces EU bridge operators to build compliance wrappers; creates B2B SaaS opportunity.
