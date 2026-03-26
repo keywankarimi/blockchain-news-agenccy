@@ -55,6 +55,51 @@
 | 2026-03 | Benzinga | RIV Coin launches on Solana: reserve-backed vault protocol bridging institutional capital to DeFi | https://www.benzinga.com/pressreleases/26/03/51437154/riv-coin-launches-on-solana-to-bridge-institutional-capital-with-defi-infrastructure |
 | 2026-03 | DL News | State of DeFi 2025: perp DEXs approaching institutional grade; RWA-Perps as new product category | https://www.dlnews.com/research/internal/state-of-defi-2025/ |
 
+### Regulation — Token Taxonomy & CLARITY Act
+
+| Date | Source | One-Line Summary | URL |
+|------|--------|-----------------|-----|
+| 2026-03-17 | SEC.gov | SEC + CFTC issue 68-page joint token taxonomy; 16 assets (BTC, ETH, SOL, XRP, ADA, LINK, DOGE + 9 more) formally classified as digital commodities | https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets |
+| 2026-03-17 | Bloomberg | SEC/CFTC move to define which digital assets are securities — 5-category taxonomy published | https://www.bloomberg.com/news/articles/2026-03-17/sec-cftc-move-to-define-which-digital-assets-are-securities |
+| 2026-03-24 | Blockhead | CLARITY Act bipartisan stablecoin yield deal reached "in principle" by Senators Tillis and Alsobrooks | https://www.blockhead.co/2026/03/24/the-clarity-act-was-stuck-one-bipartisan-deal-just-changed-everything/ |
+| 2026-03-25 | Coinpedia | Tokenization hearing confirmed, CLARITY Act stablecoin deal done "in principle" — Senate markup targeted late April | https://coinpedia.org/news/tokenization-hearing-confirmed-clarity-act-stablecoin-deal-done-in-principle-big-week-for-crypto/ |
+| 2026-03-25 | FinTech Weekly | House tokenization hearing results: bipartisan consensus that tokenized securities are inevitable; Basel 1,250% risk weight is the structural barrier | https://www.fintechweekly.com/news/tokenization-hearing-results-congress-rwa-securities-march-25-2026 |
+
+### Stablecoin — Fiserv, Payroll, Fed/IMF
+
+| Date | Source | One-Line Summary | URL |
+|------|--------|-----------------|-----|
+| 2026-03 | Fiserv IR | Fiserv launches FIUSD on Solana (Finxact-integrated) + announces PayPal PYUSD interoperability covering 10K FIs and 6M merchants | https://investors.fiserv.com/newsroom/detail/2849/fiserv-and-paypal-expand-partnership-to-advance-stablecoin-payments |
+| 2026-03 | Payments Dive | Fiserv FIUSD stablecoin launch: deepest banking network distribution ever assembled for a stablecoin | https://www.paymentsdive.com/news/fiserv-launches-new-stablecoin-crypto-genius-act-trump-bitcoins/751317/ |
+| 2026-03 | MoonPay Newsroom | Deel + MoonPay Iron launch stablecoin payroll for 40,000 UK/EU businesses | https://www.moonpay.com/newsroom/moonpay-deel-iron |
+| 2026-03 | The Block | MoonPay enables 40,000 UK/EU businesses to pay workers in stablecoins via non-custodial wallets | https://www.theblock.co/post/389252/moonpay-wants-to-help-40000-businesses-uk-eu-pay-workers-in-stablecoins |
+| 2026-03-16 | Federal Reserve Atlanta | Fed Atlanta publishes formal systemic risk analysis of stablecoins as market cap hits $311B | https://www.atlantafed.org/what-we-study/payments/2026/03/16/sorting-through-the-issues-surrounding-stablecoin |
+| 2026-03-20 | Format Research / IMF | IMF-linked study: U.S. stablecoin legislation reduced incumbent payment firm valuations by ~$300B (18%) | https://formatresearch.com/en/2026/03/20/stablecoin-e-futuro-dei-pagamenti-fmi/ |
+
+### RWA — Robinhood L2, Ironlight, TransFi
+
+| Date | Source | One-Line Summary | URL |
+|------|--------|-----------------|-----|
+| 2026-03 | Robinhood Newsroom | Robinhood launches 200+ tokenized stocks on Arbitrum for EU + announces own Arbitrum-based L2 for tokenized RWAs | https://robinhood.com/us/en/newsroom/robinhood-launches-stock-tokens-reveals-layer-2-blockchain-and-expands-crypto-suite-in-eu-and-us-with-perpetual-futures-and-staking/ |
+| 2026-03-19 | Motley Fool | Robinhood vs. Coinbase 2026: Robinhood's tokenization push redefines market hours with SpaceX private equity access | https://www.fool.com/investing/2026/03/19/robinhood-vs-coinbase-which-trading-platform-stock/ |
+| 2026-03 | Crypto Fundraising | Ironlight $21M Series A (ex-TD Bank CEO) — SEC/FINRA-regulated tokenized private equity and real estate platform on Sei | https://crypto-fundraising.info/ |
+| 2026-03 | Gate Ventures | TransFi $19.2M (equity + liquidity facility) — stablecoin payments for 70 emerging markets, 2M users | https://medium.com/@gate_ventures/before-the-breakout-how-capital-repriced-crypto-for-2026-from-winter-to-infrastructure-31ba79544485 |
+
+### DeFi / AI — Orbs Agentic
+
+| Date | Source | One-Line Summary | URL |
+|------|--------|-----------------|-----|
+| 2026-03-19 | PR Newswire | Orbs launches Agentic Execution Layer — cosigned oracle verification for AI-agent-initiated DeFi transactions | https://www.prnewswire.com/news-releases/orbs-launches-agentic-execution-layer-for-defi-automation-302718552.html |
+| 2026-03-17 | Daily Hodl | Orbs Agentic: $2.2B existing volume; autoswap, execswap, autolimit, dTWAP tools for AI-driven execution | https://dailyhodl.com/2026/03/17/orbs-launches-agentic-execution-layer-for-defi-automation/ |
+
+### Compliance / Security
+
+| Date | Source | One-Line Summary | URL |
+|------|--------|-----------------|-----|
+| 2026-02-04 | Fortune | TRM Labs hits $1B valuation in $70M Series C — Goldman Sachs, Citi, Bessemer, Thoma Bravo invest | https://fortune.com/2026/02/04/trm-labs-blockchain-analytics-funding-round-series-c-unicorn-goldman/ |
+| 2026-02-04 | CoinDesk | TRM Labs unicorn: 50+ country law enforcement network, T3 crime unit froze $300M+ in illicit assets | https://www.coindesk.com/business/2026/02/04/trm-labs-hits-unicorn-status-in-usd70-million-fund-raise-with-goldman-s-participation |
+| 2026-02-04 | Ledger Insights | Citi and Goldman back TRM Labs $70M Series C; 500% increase in AI-enabled fraud flagged | https://www.ledgerinsights.com/citi-goldman-back-trm-labs-in-70-million-series-c-round-at-1-billion-valuation/ |
+
 ### Enterprise Adoption / Regulation
 
 | Date | Source | One-Line Summary | URL |
