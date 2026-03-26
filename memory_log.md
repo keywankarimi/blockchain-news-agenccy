@@ -8,12 +8,12 @@ _Agent-maintained. Cumulative. Last updated: 2026-03-26_
 
 | Rank | Sector | Signal Strength | Why Now |
 |------|--------|----------------|---------|
-| 1 | **Stablecoin Payments Infrastructure** | ⬆⬆⬆ Very High | GENIUS Act passed, $312B market cap, PayPal 70 countries, Stripe default B2B, Visa/MC USDC settlement, KAST $80M raised |
-| 2 | **RWA Tokenization Middleware** | ⬆⬆⬆ Very High | Market 4x'd to $26.4B, landmark congressional hearing Mar 25, CLARITY Act, BlackRock/JPM fully committed |
-| 3 | **ZK Compliance / Privacy-Preserving KYC** | ⬆⬆ High | ZK-KYC productized (Polygon ID, zkPass), ZKsync Prividium + Deloitte, GENIUS BSA mandates drive demand |
-| 4 | **DeFi Automation / Intent-Based Execution (DeFAI)** | ⬆⬆ High | Orbs Agentic launched, Uniswap open-sourced agent skills, $2B+ TVL redeployed by agents, Circle grants funding AI agents |
-| 5 | **Cross-Chain Routing / Interoperability** | ⬆ Medium-High | ERC-7683 intents standard emerging, chain abstraction as UX end-state, MiCA compliance deadline July 2026 |
-| 6 | **Enterprise Blockchain Infra (L3s)** | ⬆ Medium | $14.8B raised in 2025, JPMorgan Kinexys/HSBC Orion/BlackRock BUIDL in production, L3s solve enterprise TPS |
+| 1 | **Stablecoin Payments Infrastructure** | ⬆⬆⬆ Very High | Mastercard acquires BVNK $1.8B (largest stablecoin deal ever), OCC GENIUS Act NPRM published, $312B market cap, KAST $80M |
+| 2 | **RWA Tokenization Middleware** | ⬆⬆⬆ Very High | $26.5B on-chain (+380% since 2022), landmark congressional hearing Mar 25, CLARITY Act deal in principle, BlackRock/JPM live |
+| 3 | **ZK Compliance / Enterprise ZK Infra** | ⬆⬆⬆ Very High | ZKsync Prividium live with 5 US banks ($600B deposits), ZK-KYC productizing, GENIUS Act BSA mandates create compliance SaaS demand |
+| 4 | **DeFi Automation / Intent-Based Execution (DeFAI)** | ⬆⬆ High | Orbs Agentic launched, Polymarket/Brahma acquisition, Uniswap agent skills open-sourced, $2B+ TVL redeployed by agents |
+| 5 | **PPSI Compliance Stack (GENIUS Act)** | ⬆⬆ High | OCC 370-page NPRM = hard compliance deadline Jan 2027; reserve auditing, attestation, redemption infra all required |
+| 6 | **Cross-Chain Routing / Interoperability** | ⬆ Medium-High | ERC-7683 intents standard emerging, chain abstraction as UX end-state, MiCA compliance deadline July 2026 |
 
 ---
 
@@ -228,6 +228,52 @@ _Agent-maintained. Cumulative. Last updated: 2026-03-26_
 
 - **Gency AI Raises $20M Seed for On-Chain Ad Network:** SF-based Gency AI building "sovereign advertising network" using blockchain + privacy-preserving AI for on-chain ad verification and settlement.
   - _Why it matters:_ First notable funding in blockchain-native ad attribution. On-chain ad attestation could become a large category as privacy regulations erode cookie-based tracking. Early signal only — watch for more.
+
+---
+
+### HIGHEST-SIGNAL ITEMS THIS WEEK (from second research pass)
+
+#### Mastercard Acquires BVNK for $1.8B — Largest Stablecoin Deal Ever (Mar 17, 2026)
+- **What happened:** Mastercard acquired BVNK (London, stablecoin infrastructure) for up to $1.8B ($1.5B upfront + $300M contingent). BVNK routes stablecoin payments across all major blockchains in 130+ countries. Eclipses Stripe's $1.1B Bridge acquisition.
+- **Why it matters:** Mastercard stated building this internally would take "quite a bit of time." Incumbent payment networks now view stablecoin rails as *core infrastructure*. Mastercard's 150M+ merchant network is the distribution.
+- **Sector:** Stablecoin payments infrastructure
+- **Buyer/user:** Any enterprise or bank routing cross-border or B2B payments through Mastercard
+- **Startup attractiveness:** INCREASES sharply — Mastercard's $1.8B validates the stablecoin infra acquisition market. Second/third-tier capabilities around BVNK's stack (compliance, FX rails, treasury ops) now become strategic.
+
+---
+
+#### OCC Publishes 370-Page GENIUS Act Proposed Rule (Mar 2, 2026)
+- **What happened:** OCC's Notice of Proposed Rulemaking implements the GENIUS Act. Creates "Permitted Payment Stablecoin Issuer" (PPSI) license — bank-style: 100% liquid reserve backing, par redemption within 2 business days, $5M minimum capital, annual OCC exams. Comments due May 1. State issuers above $10B must transition to federal oversight. Effective no later than Jan 18, 2027.
+- **Why it matters:** This is the operational rulebook. Not aspirational guidance — binding compliance requirements. Circle, Paxos, and any bank subsidiary issuing stablecoins now know exactly what they must build and prove. Creates an entire compliance stack demand: reserve auditing, attestation tooling, redemption infrastructure, exam readiness.
+- **Sector:** Stablecoin compliance, banking regulation
+- **Buyer/user:** Circle, Paxos, Ripple, bank stablecoin issuers, fintech legal/compliance teams
+- **Startup attractiveness:** INCREASES — PPSI compliance stack is a new category of B2B SaaS with a hard regulatory deadline.
+
+---
+
+#### CLARITY Act Deal in Principle; Senate Markup Targeted Late April (Mar 25, 2026)
+- **What happened:** At the House tokenization hearing (Mar 25), Senators Tillis and Alsobrooks reached "agreement in principle" on the stablecoin yield provision that had blocked CLARITY Act for months. Senate Banking Committee markup now targeted for late April 2026.
+- **Why it matters:** CLARITY Act would legally define whether tokenized assets are SEC or CFTC regulated — the foundational question for *every* institutional tokenization product. Senator Moreno warned: if it doesn't reach the Senate floor by May, it may not move for years.
+- **Sector:** RWA tokenization, capital markets
+- **Startup attractiveness:** INCREASES for all RWA/tokenization plays IF it passes. The legal clarity unlocks institutional issuance at scale.
+
+---
+
+#### ZKsync Prividium: 5 Real US Banks ($600B Deposits) Live on Permissioned ZK Chain (Q1 2026)
+- **What happened:** Matter Labs CEO Alex Gluchowski unveiled Prividium at DC Blockchain Summit. First live deployment is **Cari Network** — 5 U.S. regional banks with $600B+ combined deposits. Architecture: private ZKsync validium inside each bank's infrastructure, ZK validity proofs anchored to Ethereum. Supports KYC/KYB/AML, role-based access, SSO via Okta/Azure. Roadmap: 15K+ TPS, ~1s ZK finality, ~$0.0001 proving cost per transfer. Deutsche Bank and UBS already cited as users for fund management and RWA tokenization.
+- **Why it matters:** This is NOT a pilot memo. Five banks with $600B in combined deposits are live. Resolves the core institutional blocker: transaction data stays private, settlement finality is public/verifiable on Ethereum. Gluchowski's addressable market framing: $27 trillion trapped in correspondent banking.
+- **Sector:** Enterprise blockchain, ZK infrastructure, cross-chain
+- **Buyer/user:** Regional and global banks, custodians, market infrastructure providers
+- **Startup attractiveness:** INCREASES for tooling that plugs into Prividium-style permissioned ZK chains (compliance hooks, audit tooling, cross-chain data bridges from private to public). Core infra is Matter Labs' — adjacent tooling is open.
+
+---
+
+#### GSR Acquires Autonomous + Architech for $57M — Token Lifecycle Platform (Mar 17, 2026)
+- **What happened:** GSR (institutional crypto market maker) acquired Autonomous (fractional CFO/COO/treasury ops for token projects) and Architech (token launch advisory; $10B+ peak FDV across supported launches since Oct 2024) for $57M combined. Architech rebrands as GSR Digital Asset Advisory. Combined platform covers: pre-launch structuring, token economics, exchange listings, market making, post-launch treasury management.
+- **Why it matters:** Token launches currently require 5–8 fragmented service providers with misaligned incentives. GSR is consolidating this into one coordinated platform. With CLARITY Act progress reducing legal ambiguity, more institutions are approaching token launches — they need a regulated, full-service counterpart. Kraken and Anchorage made similar acquisitions in 2025. Signals a consolidation wave in token infrastructure services.
+- **Sector:** Token infrastructure, capital markets services
+- **Buyer/user:** DeFi protocols launching governance tokens, RWA platforms issuing tokenized instruments, Web3 foundations needing institutional treasury management
+- **Startup attractiveness:** MODERATE — consolidation trend suggests mid-sized standalone service providers will be acquired. Build toward acquisition or build the software layer (not the advisory layer) on top of these workflows.
 
 ---
 
