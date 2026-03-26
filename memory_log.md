@@ -192,6 +192,45 @@ _Agent-maintained. Cumulative. Last updated: 2026-03-26_
 
 ---
 
+#### Infrastructure / Institutional — New Signals (Second Search Pass)
+
+- **Kraken Fed Master Account (Mar 4, 2026):** Kraken Financial (Wyoming bank) became first crypto firm to receive a Federal Reserve master account (Kansas City Fed). Gives direct access to Fedwire; bypasses correspondent banks. Goldman Sachs + Morgan Stanley advising pre-IPO. Sets precedent for all digital asset banks.
+  - _Why it matters:_ First crypto entity inside Fed payment rails. Every digital-asset-native bank will now pursue the same. Tooling around Fed-rail settlement, compliance reporting, and institutional custody ops becomes significantly more valuable.
+
+- **Payoneer Applies to OCC for Digital Bank Charter:** Cross-border SMB fintech Payoneer applied to launch "PAYO Digital Bank" under GENIUS Act framework for stablecoin services to SMBs globally.
+  - _Why it matters:_ Major non-crypto fintech adopting stablecoin infrastructure. Validates SMB cross-border stablecoin banking as a viable commercial product, not just an experiment.
+
+- **IMF Quantifies Stablecoin Disruption: -$300B to TradFi Payment Incumbents:** IMF study (high-frequency stock analysis) found GENIUS Act legislation reduced market value of incumbent payment firms by ~18% (~$300B). Cross-border-focused firms hit hardest.
+  - _Why it matters:_ First rigorous quantification of stablecoin's structural threat to TradFi payments. Not theoretical — measurable market pricing of disruption risk.
+
+- **28% of US Adults Now Own Crypto (Doubled Since 2021):** Consumer crypto ownership at record high.
+  - _Why it matters:_ Consumer-facing crypto apps now have a genuine mass market. Stablecoin wallets, yield products, and savings accounts are addressable at scale.
+
+---
+
+#### DeFi — New Developments (Second Search Pass)
+
+- **Polymarket Acquires Brahma (Mar 18, 2026):** Polymarket (~$20B valuation) acquired Brahma, a DeFi ops infra startup ($1B+ transaction volume processed). Brahma handled wallet creation, asset conversion, on-chain position management. Products being shut down within 30 days.
+  - _Why it matters:_ Top-tier consumer app acquired DeFi ops infra to make it core to their stack. Validates demand for account abstraction + DeFi operations tooling. Pattern: this layer gets acquired by high-growth apps. Build for strategic value or toward acquisition.
+
+- **Solana Alpenglow Consensus Upgrade (Expected 2026):** Will reduce Solana finalization from 12–13s to ~1 second.
+  - _Why it matters:_ Near-instant finality enables new product categories on Solana: real-time payments, high-frequency DeFi, gaming, and B2B settlement. Startup opportunity in building on top of this new performance floor.
+
+- **Boros: Tokenized Perp Funding Rates (New DeFi Primitive):** Pendle team launched Boros — first on-chain liquid market for perpetual futures funding rates ($150B+ daily OI market previously had no liquid on-chain tool).
+  - _Why it matters:_ New financial primitive = adjacent tooling opportunity (analytics, risk management, structured products, portfolio mgmt around this primitive).
+
+- **World Markets on MegaETH (Feb 17, 2026):** First dApp on MegaETH combining spot, perp futures, and undercollateralized lending in a single cross-margin account.
+  - _Why it matters:_ Institutional-grade unified margin DeFi arriving on-chain. Watch for traction — signals infrastructure maturity threshold being crossed.
+
+---
+
+#### Emerging Category: Blockchain-Native AdTech
+
+- **Gency AI Raises $20M Seed for On-Chain Ad Network:** SF-based Gency AI building "sovereign advertising network" using blockchain + privacy-preserving AI for on-chain ad verification and settlement.
+  - _Why it matters:_ First notable funding in blockchain-native ad attribution. On-chain ad attestation could become a large category as privacy regulations erode cookie-based tracking. Early signal only — watch for more.
+
+---
+
 ## KEY THEMES TO WATCH
 
 1. **CLARITY Act Senate timeline** — May deadline pressure; outcome shapes token classification for years.
@@ -200,3 +239,4 @@ _Agent-maintained. Cumulative. Last updated: 2026-03-26_
 4. **RWA secondary market liquidity** — Primary issuance is solved; secondary trading infrastructure is the next gap.
 5. **zk-KYC adoption curve** — First mover to get institutional traction will own the compliance layer.
 6. **MiCA bridge licensing deadline (July 2026)** — Forces EU bridge operators to build compliance wrappers; creates B2B SaaS opportunity.
+7. **Kraken IPO (2026)** — First major crypto bank IPO will validate digital asset banking as an asset class for public market investors.
